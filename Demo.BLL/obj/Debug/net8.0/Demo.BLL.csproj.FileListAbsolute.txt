@@ -1,0 +1,11 @@
+D:\C#_project\WebApplication2\Demo.BLL\bin\Debug\net8.0\Demo.BLL.deps.json
+D:\C#_project\WebApplication2\Demo.BLL\bin\Debug\net8.0\Demo.BLL.dll
+D:\C#_project\WebApplication2\Demo.BLL\bin\Debug\net8.0\Demo.BLL.pdb
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfo.cs
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\Demo.BLL.dll
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\refint\Demo.BLL.dll
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\Demo.BLL.pdb
+D:\C#_project\WebApplication2\Demo.BLL\obj\Debug\net8.0\ref\Demo.BLL.dll

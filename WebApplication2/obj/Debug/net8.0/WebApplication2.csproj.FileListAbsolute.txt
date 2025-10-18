@@ -1,0 +1,9 @@
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
+D:\C#_project\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs

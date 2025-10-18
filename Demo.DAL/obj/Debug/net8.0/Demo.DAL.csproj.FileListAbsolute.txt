@@ -1,0 +1,5 @@
+D:\C#_project\WebApplication2\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\C#_project\WebApplication2\Demo.DAL\obj\Debug\net8.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_project\WebApplication2\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\C#_project\WebApplication2\Demo.DAL\obj\Debug\net8.0\Demo.DAL.AssemblyInfo.cs
+D:\C#_project\WebApplication2\Demo.DAL\obj\Debug\net8.0\Demo.DAL.csproj.CoreCompileInputs.cache
