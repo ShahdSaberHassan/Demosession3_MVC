@@ -1,4 +1,6 @@
-﻿using Demo.DAL.Data.Configurations;
+﻿using Microsoft.EntityFrameworkCore;
+
+using Demo.DAL.Data.Configurations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Demo.DAL.Data.Contexts
 {
-    internal class ApplicationDbContext : DbContext
+    public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)//parametrized constructor
         {
@@ -20,8 +22,11 @@ namespace Demo.DAL.Data.Contexts
         //}
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.ApplyConfiguration<Department>(new DepartmentConfigurations());
+            modelBuilder.ApplyConfiguration(new DepartmentConfigurations());
+
         }
     }
 
 }
+
+

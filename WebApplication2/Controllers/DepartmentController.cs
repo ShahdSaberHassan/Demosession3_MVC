@@ -1,12 +1,14 @@
 ﻿using Demo.BLL;
+using Microsoft.AspNetCore.Mvc;
 namespace WebApplication2.Controllers
 {
-    public class DepartmentController
+    public class DepartmentController(IDepartmentService _departmentService) :Controller
     {
-        //Departmentservice departmentservice used accros all action
-        public DepartmentController(DepartmentService department) //call service department service
+        [HttpGet]
+        public IActionResult Index()
         {
-
-        }//ask clr to create  object from DepartmentService
+            var departments= _departmentService.GetAllDepartments();
+            return View(departments);
+        }
     }
 }

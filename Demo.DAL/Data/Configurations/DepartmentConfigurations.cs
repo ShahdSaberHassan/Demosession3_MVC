@@ -2,7 +2,7 @@
 
 namespace Demo.DAL.Data.Configurations
 {
-    internal class DepartmentConfigurations : IEntityTypeConfiguration<Department>
+   public class DepartmentConfigurations : IEntityTypeConfiguration<Department>
     {
       public void Configure(EntityTypeBuilder<Department> builder)
         {
@@ -10,8 +10,8 @@ namespace Demo.DAL.Data.Configurations
             builder.Property(d => d.Name).HasColumnType("varchar(20)");
             builder.Property(d => d.Code).HasColumnType("varchar(20)");
             builder.Property(d => d.Description).HasColumnType("varchar(200)");
-            builder.Property(d => d.CreatedOn).HasDefaultValueSql("GETDATE())");
-            builder.Property(d => d.LastModifiedOn).HasComputedColumnSql("GETDATE())");
+            builder.Property(d => d.CreatedOn).HasDefaultValueSql("GETDATE()");
+            builder.Property(d => d.LastModifiedOn).HasComputedColumnSql("GETDATE()");
         }
     }
 

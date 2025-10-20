@@ -1,4 +1,6 @@
+using Demo.BLL;
 using Demo.DAL.Data.Contexts;
+using Demo.DAL.Repositories;
 using Microsoft.EntityFrameworkCore;
 namespace WebApplication2
 {
@@ -12,16 +14,16 @@ namespace WebApplication2
             #region configure service: add service to the id container
             builder.Services.AddControllersWithViews();
             //builder.Services.AddScoped<ApplicationDbContext>();
-            //builder.Services.AddDbContext<ApplicationDbContext>(Options =>
-            //{
-            //    //var constring = builder.Configuration["DefultConnection: connectionstring"];
-            //    var constring = builder.Configuration.GetConnectionString("DefaultConnection");
+            builder.Services.AddDbContext<ApplicationDbContext>(Options =>
+               {
+                   var constring = builder.Configuration.GetConnectionString("DefaultConnection");
 
-            //    Options.UseSqlServer();
-            //});
-
+                   Options.UseSqlServer(constring);
+               });
 
 
+            builder.Services.AddScoped<IDepartmentRepository,DepartmentRepository>();
+            builder.Services.AddScoped<IDepartmentService, DepartmentService>();
             #endregion
             var app = builder.Build();
 
