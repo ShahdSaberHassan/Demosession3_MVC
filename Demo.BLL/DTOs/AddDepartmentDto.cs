@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo.BLL.DTOs
 {
-    public class CreatedDepartmentDto
+    public class AddDepartmentDto
     {
         public string Name { get; set; }
         public string  Code { get; set; }

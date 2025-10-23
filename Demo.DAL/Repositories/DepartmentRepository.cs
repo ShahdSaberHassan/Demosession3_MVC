@@ -7,20 +7,17 @@ using System.Threading.Tasks;
 
 namespace Demo.DAL.Repositories
 {
-    public class DepartmentRepository(ApplicationDbContext context) : IDepartmentRepository
-    //high level model
+    public class DepartmentRepository : IDepartmentRepository
     {
-        private readonly ApplicationDbContext _context = context;
+        private readonly ApplicationDbContext _context;
 
+        public DepartmentRepository(ApplicationDbContext context)
+        {
+            _context = context;
+        }
 
-        //ApplicationDbContext context= new ApplicationDbContext(); //low level model
+   
 
-        //public DepartmentRepository(ApplicationDbContext context)
-        //{
-        //_context = context;
-
-        //    //ask clr to inject object from ApplicationDbContext
-        //}
         public Department? GetById(int id)
         {
             var department = _context.Departments.Find(id);
@@ -63,6 +60,11 @@ namespace Demo.DAL.Repositories
 
             _context.Departments.Remove(department);
             return _context.SaveChanges();
+        }
+
+        public Department GetById(object value)
+        {
+            throw new NotImplementedException();
         }
     }
 }

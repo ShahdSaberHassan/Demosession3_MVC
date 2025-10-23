@@ -37,7 +37,7 @@ namespace Demo.BLL.Factories
         }
 
 
-        public static Department ToEntity(this CreatedDepartmentDto dto)
+        public static Department ToEntity(this AddDepartmentDto dto)
         {
             return new Department()
             {

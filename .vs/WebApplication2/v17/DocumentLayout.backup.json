@@ -3,88 +3,52 @@
   "WorkspaceRootPath": "D:\\C#_project\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\migrations\\20251020052825_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\migrations\\20251020052825_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configurations\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\dtos\\departmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\createddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\dtos\\ubdatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\ubdatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Migrations\\20251020035029_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo.DAL\\Data\\Migrations\\20251020035029_intialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\viewmodels\\departmentviewmodel\\departmenteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\departmentviewmodel\\departmenteditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|d:\\c#_project\\webapplication2\\webapplication2\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47188A84-60F0-4A0F-9953-F0BF0D6C13A9}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|d:\\c#_project\\webapplication2\\demo.bll\\dtos\\ubdatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52A67DA3-C39B-4393-A5F4-B8ECF6906AD0}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\ubdatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|d:\\c#_project\\webapplication2\\demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{968C19AE-3B31-430C-93C8-060AE809131D}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,8 +58,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwJcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T01:14:17.13Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -106,85 +84,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeToolTip": "WebApplication2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-20T03:57:15.705Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Department\\Index.cshtml",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Index.cshtml*",
+              "RelativeToolTip": "WebApplication2\\Views\\Department\\Index.cshtml*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAD0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-20T04:22:22.397Z",
+              "WhenOpened": "2025-10-23T03:07:01.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20251020052825_intialcreate.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Migrations\\20251020052825_intialcreate.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Migrations\\20251020052825_intialcreate.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Migrations\\20251020052825_intialcreate.cs",
-              "RelativeToolTip": "Demo.DAL\\Migrations\\20251020052825_intialcreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:28:26.372Z",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T02:13:42.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\DepartmentController.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T01:14:17.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentConfigurations.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Configurations\\DepartmentConfigurations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:26:33.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DepartmentDTOs.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\DepartmentDTOs.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDTOs.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\DepartmentDTOs.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDTOs.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T15:32:50.514Z",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Department\\Details.cshtml",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Department\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T17:43:00.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:59:30.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentEditViewModel.cs",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\ViewModels\\DepartmentViewModel\\DepartmentEditViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\DepartmentViewModel\\DepartmentEditViewModel.cs",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\ViewModels\\DepartmentViewModel\\DepartmentEditViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\DepartmentViewModel\\DepartmentEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:47:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UbdateDepartmentDto.cs",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:19:55.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T00:18:29.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:43:22.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAlwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:28:08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
+              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Models\\Department.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:23:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Demo.DAL\\Models\\BaseEntity.cs",
@@ -193,188 +223,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T14:22:32.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Department.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Models\\Department.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T20:55:26.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:40:34.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T20:13:51.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T20:16:58.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UbdateDepartmentDto.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\UbdateDepartmentDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T03:07:40.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreatedDepartmentDto.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\CreatedDepartmentDto.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAswA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T23:39:36.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T22:56:29.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20251020035029_intialcreate.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Migrations\\20251020035029_intialcreate.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251020035029_intialcreate.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Data\\Migrations\\20251020035029_intialcreate.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251020035029_intialcreate.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T03:50:29.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DepartmentService.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DepartmentService.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DepartmentService.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DepartmentService.cs",
-              "RelativeToolTip": "Demo.BLL\\DepartmentService.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAIA4wF8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T00:46:32.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\IDepartmentRepository.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Repositories\\IDepartmentRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\IDepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T03:21:20.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DepartmentDetailsDto.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
-              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
-              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:00:39.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Demo.BLL",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.BLL\\Demo.BLL.csproj",
-              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.BLL\\Demo.BLL.csproj",
-              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T15:30:53.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Demo.DAL.csproj",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Demo.DAL.csproj",
-              "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\Demo.DAL\\Demo.DAL.csproj",
-              "RelativeToolTip": "Demo.DAL\\Demo.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-17T20:54:48.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\C#_project\\WebApplication2\\WebApplication2\\ViewModels\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\ErrorViewModel.cs",
-              "ToolTip": "D:\\C#_project\\WebApplication2\\WebApplication2\\ViewModels\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication2\\ViewModels\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T20:16:29.835Z",
               "EditorCaption": ""
             }
           ]

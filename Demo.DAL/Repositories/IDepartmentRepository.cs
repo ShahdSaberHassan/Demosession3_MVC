@@ -8,6 +8,6 @@ namespace Demo.DAL.Repositories
         int Update(Department department);
         IEnumerable<Department> GetAll(bool withTracking = false);
         Department? GetById(int id);
-       
+        Department GetById(object value);
     }
 }

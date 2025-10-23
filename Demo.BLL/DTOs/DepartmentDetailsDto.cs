@@ -10,7 +10,7 @@ namespace Demo.BLL.DTOs
   public class DepartmentDetailsDto
     {
 
-        //public DepartmentDetailsDto (Department dept) 
+        //public DepartmentDetailsDto(Department dept)
         //{
         //    //set all value of current object : this--> from department
 
